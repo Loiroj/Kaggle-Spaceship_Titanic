@@ -35,5 +35,7 @@ In this competition your task is to predict whether a passenger was transported 
 test.csv - Personal records for the remaining one-third (~4300) of the passengers, to be used as test data. Your task is to predict the value of Transported for the passengers in this set.
 sample_submission.csv - A submission file in the correct format.
 - **PassengerId** - Id for each passenger in the test set.
+
+
 - **Transported** - The target. For each passenger, predict either True or False.
 
